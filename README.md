@@ -7,10 +7,10 @@ Repositorio destinado ao teste técnico para Estagio em Analise e Desenvolviment
 
 
 - **[Question1](#-question-1)** - Lógica de Programação (Estrutura de Repetição)
-- **[Question2](#-question-2)** - Sequência de Fibonacci
-- **[Question3](#-question-3)** - Consulta / Banco de Dados
-- **[Question4](#-question-4)** - Consulta / Banco de Dados
-- **[Question5](#-question-5)** - Consulta / Banco de Dados
+- **[Question2](#-question-2)** - Programação / Sequência de Fibonacci
+- **[Question3](#-question-3)** - Sequências Lógicas
+- **[Question4](#-question-4)** - Pensamento Lógico / Fisica Cinemâtica
+- **[Question5](#-question-5)** - Programação / String invertida
 
 📋 Question 1
 ------------
