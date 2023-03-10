@@ -82,11 +82,14 @@ class Program
 {
     static void Main(string[] args)
     {
+        //Solicita um numero inteiro
         Console.Write("Digite um número inteiro: ");
         int numero = int.Parse(Console.ReadLine());
-
+        
+        //Criando os primeiros elementos da sequência.
         int a = 0, b = 1;
-
+        
+        //Loop utilizando desestruturação de tupla para atualizar os valores de a e b da sequência.
         while (b < numero)
             (a, b) = (b, a + b);
 
@@ -147,10 +150,7 @@ Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas
 Resolution
 ------------
 
-Os dois veiculos estarão a uma mesma distancia da cidade de Ribeirão Preto. Independente do tempo ou velocidade deles, ao se cruzarem estarão a uma mesma distãncia da cidade.
-
-Função horaria 
-
+Os dois veiculos estarão a uma mesma distância da cidade de Ribeirão Preto. Independente do tempo ou velocidade deles, ao se cruzarem estarão a uma mesma distância da cidade.
 
 📋 Question 5
 ------------
@@ -192,4 +192,15 @@ class Program {
     }
 }
 ```
+Exemplo:
 
+```c#
+//input
+Felipe
+```
+
+```c#
+//output
+String original: Felipe
+String invertida: epileF
+```
