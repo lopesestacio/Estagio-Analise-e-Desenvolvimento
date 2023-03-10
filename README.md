@@ -54,15 +54,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        int INDICE = 13, SOMA = 0, K = 0;
+        int indice = 13, soma = 0, k = 0;
 
-        while (K < INDICE)
+        while (k < indice)
         {
-            K = K + 1;
-            SOMA = SOMA + K;
+            k = k + 1;
+            soma = soma + k;
         }
 
-        Console.WriteLine(SOMA);
+        Console.WriteLine(soma);
     }
 }
 
