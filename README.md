@@ -9,7 +9,7 @@ Repositorio destinado ao teste técnico para Estagio em Analise e Desenvolviment
 - **[Question1](#-question-1)** - Lógica de Programação (Estrutura de Repetição)
 - **[Question2](#-question-2)** - Programação / Sequência de Fibonacci
 - **[Question3](#-question-3)** - Sequências Lógicas
-- **[Question4](#-question-4)** - Pensamento Lógico / Fisica Cinemâtica
+- **[Question4](#-question-4)** - Lógica
 - **[Question5](#-question-5)** - Programação / String invertida
 
 📋 Question 1
@@ -35,12 +35,12 @@ imprimir(SOMA);
 //Ao final do processamento, qual será o valor da variável SOMA?
 
 ```
-```c
-//Output
+```bash
+#Output
 91
 
 ```
-Resolução
+Resolution
 ------------
 O valor da variável SOMA será a soma dos números inteiros de 1 a 13, que é 91. O laço `while` executará 13 vezes e a cada iteração somará um novo número à variável SOMA, começando com 1 e terminando em 13.
 
@@ -92,7 +92,7 @@ class Program
         //Loop utilizando desestruturação de tupla para atualizar os valores de a e b da sequência.
         while (b < numero)
             (a, b) = (b, a + b);
-
+        //Imprime no console se o numero {0} percente ou não pertence {1} a sequencia.
         Console.WriteLine("{0} {1} à sequência de Fibonacci.", numero, b == numero ? "pertence" : "não pertence");
     }
 }
@@ -100,13 +100,13 @@ class Program
 ```
 Exemplo:
 
-```c#
-//input
+```bash
+#input
 34
 ```
 
-```c#
-//output
+```bash
+#output
 34 pertence à sequência de Fibonacci.
 ```
 
@@ -194,13 +194,13 @@ class Program {
 ```
 Exemplo:
 
-```c#
-//input
+```bash
+#input
 Felipe
 ```
 
-```c#
-//output
+```bash
+#output
 String original: Felipe
 String invertida: epileF
 ```
