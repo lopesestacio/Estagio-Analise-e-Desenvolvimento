@@ -1,10 +1,8 @@
-Teste Técnico - Estagio Analise e Desenvolvimento
+# Teste Técnico - Estagio Analise e Desenvolvimento
 
 Repositorio destinado ao teste técnico para Estagio em Analise e Desenvolvimento.
 
-
 # 🚀 Começando
-
 
 - **[Question1](#-question-1)** - Lógica de Programação (Estrutura de Repetição)
 - **[Question2](#-question-2)** - Programação / Sequência de Fibonacci
